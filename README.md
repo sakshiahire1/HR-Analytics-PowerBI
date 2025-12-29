@@ -19,7 +19,8 @@ This project analyzes HR data to identify employee attrition trends and key work
 - DAX
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="1158" height="645" alt="Screenshot 2025-12-29 192419" src="https://github.com/user-attachments/assets/c0205509-b310-462d-8470-465e89809653" />
+
 
 ## Outcome
 The dashboard helps HR teams make data-driven decisions to reduce attrition and improve employee retention.
